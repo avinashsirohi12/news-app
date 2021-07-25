@@ -1,0 +1,11 @@
+body{
+    background-image: url('pexels-cottonbro-4057766.jpg');
+}
+
+body>img {
+    height: 100%;
+    width: 100%;
+}
+.container > h3 {
+    color: white;
+}
